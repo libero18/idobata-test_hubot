@@ -1,1 +1,1 @@
-web: bin/hubot -a idobata -n libot
+web: bin/hubot -a idobata
