@@ -24,7 +24,7 @@
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-idobata": "0.0.5",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
-    "hubot-suddendeath": "0.0.3"
+    "hubot-suddendeath": "0.0.3",
     "hubot-weather-ja": "0.0.1"
   },
   "engines": {
